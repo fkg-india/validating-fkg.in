@@ -1,4 +1,4 @@
-# MMFood Recipe Extraction Verification Pipeline
+# FKG.in Recipe Extraction Verification Pipeline
 
 A 5-stage pipeline for verifying LLM-extracted recipe JSON against its source text:
 
