@@ -28,6 +28,17 @@ Not included:
 
 To request any of the above, email foodcomputing.ashoka@gmail.com, saransh.gupta@ashoka.edu.in, or armaan.shah@alumni.ashoka.edu.in.
 
+## Citation
+
+This repository accompanies:
+
+Saransh Kumar Gupta, Armaan Shah, Lipika Dey, Partha Pratim Das, and Ramesh Jain.
+Validating FKG.in: Soundness Assessment in LLM-Augmented Indian Food Knowledge.
+arXiv:2608.29249, 2026.
+https://doi.org/10.48550/arXiv.2608.29249
+
+If you use this software in academic or scientific work, please cite the paper above and, where appropriate, the specific software release archived on Zenodo.
+
 ## Setup
 
 ```
