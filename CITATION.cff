@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+title: "FKG.in Recipe Extraction Verification Pipeline"
+type: software
+message: "If you use this software, please cite both the software release and the accompanying paper."
+
+authors:
+  - family-names: Shah
+    given-names: Armaan
+  - family-names: Gupta
+    given-names: "Saransh Kumar"
+
+repository-code: "https://github.com/fkg-india/validating-fkg.in"
+version: "1.0.0"
+date-released: "2026-10-02"
+
+abstract: >
+  A five-stage pipeline for validating LLM-extracted recipe data against
+  source text, combining schema validation, ingredient vocabulary checks,
+  statistical outlier detection, semantic coherence modeling, and
+  source-fidelity verification, with a human-in-the-loop correction tool.
+
+keywords:
+  - LLM
+  - recipe extraction
+  - food knowledge graph
+  - information extraction
+  - verification
+  - Indian food
+  - FKG.in
+
+license: "LicenseRef-Food-Computing-Lab-Non-Commercial-Research"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23097205"
+    description: "Zenodo DOI for version 1.0.0"
+
+references:
+  - type: article
+    authors:
+      - family-names: Gupta
+        given-names: "Saransh Kumar"
+      - family-names: Shah
+        given-names: Armaan
+      - family-names: Dey
+        given-names: Lipika
+      - family-names: Das
+        given-names: "Partha Pratim"
+      - family-names: Jain
+        given-names: Ramesh
+    title: "Validating FKG.in: Soundness Assessment in LLM-Augmented Indian Food Knowledge"
+    year: 2026
+    identifiers:
+      - type: doi
+        value: "10.48550/arXiv.2608.29249"
+        description: "arXiv DOI"
