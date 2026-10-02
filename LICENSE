@@ -1,0 +1,138 @@
+FOOD COMPUTING LAB — NON-COMMERCIAL RESEARCH SOFTWARE LICENSE
+
+Copyright (c) 2026 Food Computing Lab, Ashoka University
+
+1. GRANT OF RIGHTS
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to use,
+copy, modify, and distribute the Software, subject to the terms and conditions
+of this License.
+
+The rights granted under this License are limited to non-commercial use.
+
+2. PERMITTED USE
+
+The Software may be used, modified, reproduced, and distributed for:
+
+* academic and scientific research;
+* educational and teaching purposes;
+* student projects and coursework;
+* non-profit research and development;
+* personal, non-commercial experimentation;
+* reproduction and verification of published research; and
+* other purposes that are not primarily intended for commercial advantage
+    or monetary compensation.
+
+Modified versions of the Software may be distributed for non-commercial
+purposes, provided that the requirements of Section 4 are satisfied.
+
+3. RESTRICTION ON COMMERCIAL USE
+
+Commercial use of the Software is not permitted under this License.
+
+“Commercial Use” means any use of the Software that is primarily intended
+for commercial advantage, monetary compensation, revenue generation, or use
+in connection with a commercial product or service.
+
+Examples of Commercial Use include, but are not limited to:
+
+* incorporating the Software into a product or service offered for sale;
+* using the Software to provide a paid service to third parties;
+* selling the Software or a modified version of the Software;
+* licensing the Software or a modified version for commercial use;
+* using the Software as part of a commercial research or development
+    activity; or
+* deploying the Software within a commercial product, platform, or service.
+
+Commercial use may be permitted under a separate written agreement with the
+Food Computing Lab, Ashoka University. Nothing in this License grants
+permission for Commercial Use.
+
+4. ATTRIBUTION AND REDISTRIBUTION
+
+Any copy or substantial portion of the Software, including modified versions
+distributed under this License, must include:
+
+(a) the copyright notice;
+
+(b) a copy of this License; and
+
+(c) appropriate acknowledgment of the Food Computing Lab, Ashoka University.
+
+Modified versions must clearly indicate that modifications have been made.
+
+When the Software is used in academic research, publications, presentations,
+theses, dissertations, or other scholarly work, users should appropriately
+cite the associated research publication, where applicable, and acknowledge
+the Food Computing Lab, Ashoka University.
+
+5. NO IMPLIED RIGHTS TO THIRD-PARTY MATERIALS
+
+This License applies only to the Software and documentation in this
+repository for which the Food Computing Lab, Ashoka University has the
+necessary rights to grant this License.
+
+Datasets, pretrained models, software libraries, APIs, images, and other
+third-party materials referenced by or used with the Software may be subject
+to separate licenses, copyrights, terms of use, or other restrictions.
+
+This License does not grant any rights to such third-party materials.
+
+In particular, datasets or derived data that are not included in this
+repository remain subject to their respective terms and permissions.
+
+Users are responsible for determining and complying with the applicable
+licenses and terms for third-party materials.
+
+6. COMMERCIAL LICENSING
+
+Individuals or organizations wishing to use the Software for Commercial Use
+may contact the Food Computing Lab, Ashoka University to request permission
+or a separate commercial license.
+
+For commercial licensing inquiries, contact:
+
+Food Computing Lab
+Ashoka University
+
+foodcomputing.ashoka@gmail.com
+saransh.gupta@ashoka.edu.in
+armaan.shah@alumni.ashoka.edu.in
+
+A separate written agreement is required before Commercial Use is permitted.
+
+7. TRADEMARKS AND INSTITUTIONAL NAMES
+
+This License does not grant permission to use the names, trademarks, logos,
+or other identifying marks of Ashoka University or the Food Computing Lab
+except where necessary to provide the attribution required by this License.
+
+8. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT,
+OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9. TERMINATION
+
+Any rights granted under this License terminate automatically if you violate
+the terms of this License.
+
+Upon termination, you must cease the use and distribution of the Software,
+except to the extent that applicable law or a separate written agreement
+provides otherwise.
+
+10. INTERPRETATION
+
+This License is intended to make the Software freely available for academic,
+educational, research, and other non-commercial purposes while reserving
+commercial licensing rights to the Food Computing Lab, Ashoka University.
+
+If any provision of this License is found to be unenforceable, the remaining
+provisions shall remain in effect to the extent permitted by applicable law.
