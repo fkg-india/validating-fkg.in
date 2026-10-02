@@ -39,6 +39,8 @@ https://doi.org/10.48550/arXiv.2608.29249
 
 If you use this software in academic or scientific work, please cite the paper above and, where appropriate, the specific software release archived on Zenodo.
 
+Software: https://doi.org/10.5281/zenodo.23097205
+
 ## Setup
 
 ```
